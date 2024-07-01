@@ -23,7 +23,6 @@
     "middist": "^0.2.5",
     "mosca": "^2.5.2",
     "path-rewriter": "^1.0.1",
-    "path-to-regexp": "^2.0.0",
     "plando": "^0.1.4"
   },
   "devDependencies": {
